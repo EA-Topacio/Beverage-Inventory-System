@@ -63,7 +63,7 @@ The system streamlines banquet event order (BEO) management, inventory tracking,
 
 - Automated Restock List
 
-# 🗄 Database Design
+## Database Design
 
 The system is built around a relational database structure consisting of:
 
