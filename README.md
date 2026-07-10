@@ -31,6 +31,7 @@ A Business Intelligence and Inventory Management System developed using Google S
 ## Project Screenshots
 
 📁 screenshots
+
 <img width="485" height="561" alt="image" src="https://github.com/user-attachments/assets/94b9bce3-efbc-4a36-bb7a-eb32517f7355" />
 
 <img width="440" height="451" alt="image" src="https://github.com/user-attachments/assets/3a8f88c7-b2d4-4102-843e-d1e8231eb70c" />
@@ -49,6 +50,7 @@ A Business Intelligence and Inventory Management System developed using Google S
 
 
 📁 documentation
+
 <img width="570" height="630" alt="image" src="https://github.com/user-attachments/assets/fcc8a6a2-0779-4d32-90d7-15f154eddb0c" />
 
 <img width="798" height="655" alt="image" src="https://github.com/user-attachments/assets/9c3ec49f-7f44-489c-a3da-32700f8e90a2" />
