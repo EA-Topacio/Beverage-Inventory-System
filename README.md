@@ -96,13 +96,11 @@ The system is built around a relational database structure consisting of:
 - Database Design
 - Data Analysis
 
-## Project Screenshots
-
-📁 screenshots
+## Screenshots
 
 [Consumption Screenshots.pdf](https://github.com/user-attachments/files/29881180/Consumption.Screenshots.pdf)
 
-📁 documentation
+## Documentation
 
 [Beverage Inventory & Consumption System - User Manual.pdf](https://github.com/user-attachments/files/29880650/Beverage.Inventory.Consumption.System.-.User.Manual.pdf)
 
