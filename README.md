@@ -50,16 +50,7 @@ A Business Intelligence and Inventory Management System developed using Google S
 
 
 📁 documentation
-
-<img width="570" height="630" alt="image" src="https://github.com/user-attachments/assets/fcc8a6a2-0779-4d32-90d7-15f154eddb0c" />
-
-<img width="798" height="655" alt="image" src="https://github.com/user-attachments/assets/9c3ec49f-7f44-489c-a3da-32700f8e90a2" />
-
-<img width="781" height="538" alt="image" src="https://github.com/user-attachments/assets/044aa0c0-0b55-4426-ba33-d26c2e7312c8" />
-
-<img width="689" height="409" alt="image" src="https://github.com/user-attachments/assets/bf769e88-a20b-4578-a2a5-81e0a9af2744" />
-
-<img width="779" height="323" alt="image" src="https://github.com/user-attachments/assets/1e1b59ad-38ca-45f2-9b51-2aa738596fbe" />
+[Beverage Inventory & Consumption System - User Manual.pdf](https://github.com/user-attachments/files/29880650/Beverage.Inventory.Consumption.System.-.User.Manual.pdf)
 
 ## Author
 Ethel Anne B. Topacio
